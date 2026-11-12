@@ -1,4 +1,4 @@
-# Nishant-100Hires
+# Nishant- Research Playbook
 GitHub Repository: AI-Powered B2B SaaS Content Strategy & Research Playbook
 # Cursor Setup Assignment
 
