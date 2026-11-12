@@ -1,5 +1,5 @@
 # Nishant-100Hires
-GitHub Repository for 100Hires requitement process  
+GitHub Repository for 100Hires recruitment process  
 # Cursor Setup Assignment
 
 Tools Installed
