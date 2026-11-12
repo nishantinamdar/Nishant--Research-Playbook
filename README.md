@@ -1,5 +1,5 @@
 # Nishant-100Hires
-GitHub Repository for 100Hires recruitment process  
+GitHub Repository: AI-Powered B2B SaaS Content Strategy & Research Playbook
 # Cursor Setup Assignment
 
 Tools Installed
